@@ -1,0 +1,8 @@
+/* Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* My Styles */
+@import "./base/colors";
+@import "./components/Navbar";
